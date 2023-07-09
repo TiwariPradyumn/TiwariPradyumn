@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TiwariPradyumn
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Flask
-- 💞️ I’m looking to collaborate on Data Analyst.
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently working om Big Data with Spark, Hive, Hadoop, etc.
+- 💞️ I’m looking to collaborate on Data Engineer, Big Data, Data Analysis.
 - 📫 How to reach me LinkedIn.https://www.linkedin.com/in/pradyumn-tiwari-71ba61215
 
 <!---
